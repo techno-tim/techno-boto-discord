@@ -1,0 +1,16 @@
+{
+  "name": "techno-boto-discord",
+  "version": "0.0.0",
+  "description": "A discord moderator bot",
+  "main": "src",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "esm": "^3.2.25"
+  }
+}
