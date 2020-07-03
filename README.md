@@ -8,8 +8,8 @@ For instructions, please see [https://youtu.be/YSZcyz2-twQ](https://youtu.be/YSZ
 
 If you need help setting up your machine for JavaScript development, see https://www.youtube.com/watch?v=kL8iGErULiw
 
-It was created by TechnoTim:
-
+## Credits
+Created by TechnoTim with 💛
 
 🔔 Social Media 🔔
 
@@ -24,3 +24,4 @@ It was created by TechnoTim:
 ► Facebook https://www.facebook.com/TechnoTimLive/
 
 ► GitHub https://github.com/timothystewart6
+
