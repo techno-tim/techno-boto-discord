@@ -9,7 +9,7 @@ For instructions, please see [https://youtu.be/YSZcyz2-twQ](https://youtu.be/YSZ
 If you need help setting up your machine for JavaScript development, see https://www.youtube.com/watch?v=kL8iGErULiw
 
 ## Credits
-Created by TechnoTim with 💛
+Created by Techno Tim with 💛
 
 🔔 Social Media 🔔
 
