@@ -6,4 +6,6 @@ For instructions, please see [https://youtu.be/YSZcyz2-twQ](https://youtu.be/YSZ
 
 It was created by TechnoTim:
 
-[TechnoTim](https://www.youtube.com/TechnoTimLive)
+[Techno Tim on YouTube](https://www.youtube.com/TechnoTimLive)
+
+[Techno Tim on Twitch](https://www.twitch.tv/technotim)
