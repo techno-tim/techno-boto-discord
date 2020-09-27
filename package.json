@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.5.1",
+    "discord.js": "^12.3.1",
     "esm": "^3.2.25"
   },
   "devDependencies": {
