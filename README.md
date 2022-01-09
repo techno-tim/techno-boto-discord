@@ -20,7 +20,7 @@ Created by Techno Tim with 💛
 
 ► Twitter  https://twitter.com/TechnoTimLive
 
-► Discord https://discord.gg/DJKexrJ
+► Discord https://l.technotim.live/discord
 
 ► Instagram https://www.instagram.com/techno.tim/
 
