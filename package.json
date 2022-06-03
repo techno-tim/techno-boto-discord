@@ -1,5 +1,5 @@
 {
-  "name": "techno-boto-discord",
+  "name": "theo-boto-discord",
   "version": "0.0.0",
   "description": "A discord moderator bot",
   "main": "src",
@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.3.1",
-    "esm": "^3.2.25"
+    "esm": "^3.2.25",
+    "yarn": "^1.22.18"
   },
   "devDependencies": {
     "jest": "^26.5.2",
