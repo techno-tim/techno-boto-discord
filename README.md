@@ -1,4 +1,4 @@
-# techno-boto-discord
+# theo-boto-discord
 
 This is a simple moderation bot that can be added to your own discord server.
 
@@ -13,18 +13,3 @@ If you need help setting up your machine for JavaScript development, see https:/
 
 ## Credits
 Created by Techno Tim with 💛
-
-🔔 Social Media 🔔
-
-► Twitch https://www.twitch.tv/TechnoTim
-
-► Twitter  https://twitter.com/TechnoTimLive
-
-► Discord https://l.technotim.live/discord
-
-► Instagram https://www.instagram.com/techno.tim/
-
-► Facebook https://www.facebook.com/TechnoTimLive/
-
-► GitHub https://github.com/timothystewart6
-
