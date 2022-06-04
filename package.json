@@ -14,7 +14,7 @@
     "esm": "^3.2.25"
   },
   "devDependencies": {
-    "jest": "^26.5.2",
+    "jest": "^28.1.0",
     "jest-esm-transformer": "^1.0.0"
   }
 }
